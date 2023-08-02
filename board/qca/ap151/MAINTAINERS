@@ -1,0 +1,6 @@
+AP151 BOARD
+M:	Rosy Song <rosysong@rosinson.com>
+S:	Maintained
+F:	board/qca/ap151/
+F:	include/configs/ap151.h
+F:	configs/ap151_defconfig

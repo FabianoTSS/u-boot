@@ -2,6 +2,7 @@
 
 dtb-$(CONFIG_TARGET_AP121) += ap121.dtb
 dtb-$(CONFIG_TARGET_AP143) += ap143.dtb
+dtb-$(CONFIG_TARGET_AP151) += ap151.dtb
 dtb-$(CONFIG_TARGET_AP152) += ap152.dtb
 dtb-$(CONFIG_TARGET_BOSTON) += img,boston.dtb
 dtb-$(CONFIG_TARGET_MALTA) += mti,malta.dtb
